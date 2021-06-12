@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @12VM
+# 👋 Hi, I’m @spargle
 # I’m currently learning C++, JS, Java, Python
 # I’m looking to collaborate on Cryptocurrency-related things and server-side applications
 ## Enjoy my work? Support me! Here's my DogeCoin Adress: `DBpcCYjwSBGv58nAoFPudtqAJkrim4vWb6`
