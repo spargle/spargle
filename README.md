@@ -4,4 +4,4 @@
 ## Enjoy my work? Support me! Send me some DogeCoin: `DBpcCYjwSBGv58nAoFPudtqAJkrim4vWb6`
 ![my' GitHub stats](https://github-readme-stats.vercel.app/api?username=spargle&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spargle&layout=compact&theme=dark)
+<a href="https://github.com/spargle/ark"><img src="https://github-readme-stats.vercel.app/api/pin/?username=spargle&repo=ark"/></a>
