@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @spargle, a 13 year-old programmer
+# 👋 Hi, I’m @spargle
 ###### lol
 
 
