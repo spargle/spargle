@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @spargle
+![img](https://github.com/spargle/spargle/blob/main/%22TELEVISION%22.png)
 ###### lol
 ## Do you like Go? I like Go. Go is my life.
 # I made a [game](https://spegeet.itch.io/flr-rn)!
